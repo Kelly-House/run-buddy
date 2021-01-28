@@ -194,14 +194,12 @@ section {
 .trainer img {
     width: 35%;
     float: left;
-    overflow: auto;
 }
 
 .trainer-bio {
     padding: 35px;
     float: left;
     width: 65%;
-    overflow: auto
 }
 
 .trainer-bio h3 {
